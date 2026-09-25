@@ -1,0 +1,6 @@
+{
+  "name": "Thirumala Bar and Restaurant",
+  "description": "Premium dining and table reservations at Thirumala Bar and Restaurant in Bharamasagara, Chitradurga, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
